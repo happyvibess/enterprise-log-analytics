@@ -4,7 +4,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/happyvibess)
+[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://www.buymeacoffee.com/happyvibess)
 
 *A powerful, scalable log analytics solution for modern enterprises*
 
@@ -124,5 +124,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-Made with ❤️ by <a href="https://github.com/happyvibess">happyvibess</a>
+Made with ❤️ by <a href="https://www.buymeacoffee.com/happyvibess">happyvibess</a>
 </div>
