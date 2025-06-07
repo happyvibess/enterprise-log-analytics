@@ -51,10 +51,50 @@ Our platform employs a modern, microservices-based architecture:
 
 ## 📚 Documentation
 
-- [Installation Guide](docs/installation.md)
-- [API Reference](docs/api-reference.md)
-- [Configuration Guide](docs/configuration.md)
-- [Best Practices](docs/best-practices.md)
+### Environment Variables
+
+```env
+PORT=3000
+MONGODB_URI=mongodb://localhost:27017/log-analytics
+KAFKA_BROKERS=localhost:9092
+ELASTICSEARCH_NODE=http://localhost:9200
+REDIS_URL=redis://localhost:6379
+```
+
+### API Endpoints
+
+```bash
+# Health Check
+GET /api/health
+
+# Ingest Logs
+POST /api/logs
+
+# Query Logs
+GET /api/logs/search
+
+# Analytics
+GET /api/analytics/dashboard
+```
+
+### Available Scripts
+
+```bash
+# Development
+npm run dev
+
+# Production Build
+npm run build
+
+# Start Production Server
+npm start
+
+# Run Tests
+npm test
+
+# Lint Code
+npm run lint
+```
 
 ## 🛠 Tech Stack
 
